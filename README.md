@@ -17,7 +17,8 @@ A responsive static portfolio designed for GitHub Pages.
 - Review the wording of confidential consultancy projects.
 - Replace the CV in `assets/` whenever you update it.
 - Add an email address only if you are comfortable displaying it publicly.
-- Optional: add a professional headshot and social-preview image.
+- Add your professional headshot as `assets/marki.JPG` (the filename is case-sensitive on GitHub Pages).
+- Optional: add a social-preview image in the repository settings.
 
 ## Files
 
@@ -25,3 +26,4 @@ A responsive static portfolio designed for GitHub Pages.
 - `styles.css` — visual design and responsive layout
 - `script.js` — mobile navigation and current year
 - `assets/Mark-Abraham-Magumba-CV.docx` — downloadable CV
+- `assets/marki.JPG` — your professional portrait shown in the top-right of the hero section
